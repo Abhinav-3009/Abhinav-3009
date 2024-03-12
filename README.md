@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <a href=mailto:“disha@uplers.com" target="_blank">
+  <a href=mailto:“abhi30092000.ag@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="90" height="40" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/abhinav-gupta-b4a2b51aa/" target="_blank">
