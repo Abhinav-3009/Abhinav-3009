@@ -59,3 +59,7 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/Abhinav-3009/Abhinav-3009/output/snake.svg" alt="Snake animation" />
+
+###
