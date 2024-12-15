@@ -23,8 +23,8 @@ me.say_hi()
 ###
 
 <div align="center">
-  <a href=mailto:“abhinav30g@gmail.com" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png"  width="100" />
+  <a href="mailto:abhinav30g@gmail.com">
+    <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="100" />
   </a>
   <a href="https://www.linkedin.com/in/abhinav-gupta-b4a2b51aa/" target="_blank">
     <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100">
