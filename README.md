@@ -1,5 +1,24 @@
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
 
-<h3 align="left">Hi there👋! I'm a software engineer named Abhinav Gupta, and I love to code and solve problems. I'm constantly looking for chances to work alongside other people on open-source projects since I'm excited to learn about and adopt new technologies. Let's connect on the social media platforms displayed below!</h3>
+
+class SoftwareDeveloper:
+
+    def __init__(self):
+        self.name = "Abhinav Gupta"
+        self.role = "Software Developer"
+        self.language_spoken = ["en_US", "hi_IN"]
+
+    def say_hi(self):
+        print("Hi, I'm a software developer who loves coding and problem-solving."
+        "Thanks for dropping by, hope you find some of my work interesting."
+        "Let's connect and collaborate!")
+
+
+me = SoftwareEngineer()
+me.say_hi()
+```
 
 ###
 
