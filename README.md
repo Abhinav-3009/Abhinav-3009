@@ -49,7 +49,7 @@ me.say_hi()
 <p align="center">Below are the key technologies and frameworks I've been learning and have applied in my projects:</p>
 
 <div align="center">
-  <table>
+  <table border="0">
     <tr>
       <td align="center" style="vertical-align: middle;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="47" alt="javascript logo" />
@@ -83,10 +83,10 @@ me.say_hi()
 
 ###
 <div align="center">
-  <table>
+  <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhinav-3009&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhinav-3009&radius=16&theme=react&area=true&order=5" height="400" alt="activity-graph graph" />
       </td>
       <td>
         <img src="https://leetcard.jacoblin.cool/abhinav30g?theme=transparent&font=Sora&ext=heatmap" height="300" width="600" alt="LeetCode Stats" />
@@ -94,4 +94,5 @@ me.say_hi()
     </tr>
   </table>
 </div>
+
 
