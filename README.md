@@ -1,3 +1,7 @@
+<img src="https://raw.githubusercontent.com/Abhinav-3009/Abhinav-3009/output/snake.svg" alt="Snake animation" />
+
+###
+
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
@@ -59,7 +63,7 @@ me.say_hi()
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="47" alt="bootstrap logo" />
       </td>
       <td align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400" alt="Mario GIF" />
+        <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
       </td>
       <td align="center" style="vertical-align: middle;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="47" alt="flutter logo" />
@@ -85,6 +89,4 @@ me.say_hi()
 
 ###
 
-<img src="https://raw.githubusercontent.com/Abhinav-3009/Abhinav-3009/output/snake.svg" alt="Snake animation" />
 
-###
